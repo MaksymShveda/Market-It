@@ -1,0 +1,19 @@
+{
+  "name": "market-it",
+  "version": "1.0.0",
+  "description": "project of a site where you can publish your goods for sale",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymShveda/Market-It.git"
+  },
+  "author": "Maksym Shveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymShveda/Market-It/issues"
+  },
+  "homepage": "https://github.com/MaksymShveda/Market-It#readme"
+}
